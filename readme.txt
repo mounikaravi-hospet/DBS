@@ -4,7 +4,7 @@
 
 1. ALl the DDL commands (create tables) are in the file named "create table.sql.txt".
 
-3. Sone of the data was generated using the online tool https://www.mockaroo.com/. However, the remaining data was filled manually refering to online sources.(No scripts were used in data generation)
+3. Some of the data was generated using the online tool https://www.mockaroo.com/. However, the remaining data was filled manually refering to online sources.(No scripts were used in data generation)
 
 2. We have 13 tables and the order in which the data has to be filled is given below ( all the below tables are insert queries. The data is also present in the cls file named RMS_data.xls)
 	
