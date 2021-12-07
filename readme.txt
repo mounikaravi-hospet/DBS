@@ -6,7 +6,7 @@
 
 3. Some of the data was generated using the online tool https://www.mockaroo.com/. However, the remaining data was filled manually refering to online sources.(No scripts were used in data generation)
 
-2. We have 13 tables and the order in which the data has to be filled is given below ( all the below tables are insert queries. The data is also present in the cls file named RMS Data.xlsd)
+2. We have 13 tables and the order in which the data has to be filled is given below ( all the below tables are insert queries. The data is also present in the cls file named RMS Data.xlsx)
 	
 	1. supplier.sql
 	2. manager.sql
