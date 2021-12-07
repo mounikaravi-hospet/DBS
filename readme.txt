@@ -37,4 +37,4 @@ Team Members:
 
 5. Finally, the sample queries can be found in Queries.sql.txt
 
-5. Video presentation link: 
+6. Video presentation link: 
