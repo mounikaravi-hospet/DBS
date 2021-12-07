@@ -1,6 +1,6 @@
 ******************************All the SQL files are in the format "file_name.sql.txt"******************************
 
-*****************To run the SQL files, they have to be renamed to "file_name.sql" (.txt extension to be removed)*******************
+********To run the SQL files, they have to be renamed to "file_name.sql" (.txt extension to be removed)********
 
 1. ALl the DDL commands (create tables) are in the file named "create table.sql.txt".
 
