@@ -1,3 +1,5 @@
+Names: Vera Barnor Agyiri, Mounika Ravi Hospet, Peyal Dhar, Chihumeya Eresia-Eke
+
 ******************************All the SQL files are in the format "file_name.sql.txt"******************************
 
 ********To run the SQL files, they have to be renamed to "file_name.sql" (.txt extension to be removed)********
